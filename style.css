@@ -1,0 +1,23 @@
+h1{
+  text-align: center;
+  }
+  .parent{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+.child1{
+  width:25%;
+  margin:2%;
+  padding: 2%;
+}
+.child2{
+  width:70%;
+  margin:2%;
+  padding: 2%;
+  /* border: 1px solid #dad; */
+}
+h2{
+  color:#ddd;
+}
